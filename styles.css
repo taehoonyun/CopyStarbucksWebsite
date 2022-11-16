@@ -421,6 +421,7 @@ li {
   border: none;
 }
 .Public li:hover {
+  cursor: pointer;
   text-decoration: underline;
 }
 .footer p {
